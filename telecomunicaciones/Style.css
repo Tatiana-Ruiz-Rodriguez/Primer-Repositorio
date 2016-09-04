@@ -1,0 +1,299 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#FFF;
+	}
+
+#grande{
+	height:1000px;
+	width:1205px;
+	margin:auto;
+	
+	}
+#menu{
+	height:150px;
+	width:1200px;
+	background-color:#F90;
+	font-family: Blueberry Oatmeal;
+	font-size:50px;
+	color:#FFF;
+	text-align:justify;
+	}
+	
+#logo{
+	height: 150px;
+	width:180px;
+	margin-left: 10px;
+	margin-top:auto;
+	float:left;
+	}
+
+#titulo{
+	height:150px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top:auto;
+	float:left;
+	}
+	
+#meni{
+	height: 150px;
+	width: 700px;
+	margin-left: 40px;
+	}
+	
+#slider{
+	height: 350px;
+	width: 700px;
+	margin-top: 10px;
+	float:left;
+	}
+	
+#contenido1{
+	height: 350px;
+	width: 500px;
+	margin-top: 10px;
+	float:left;
+	background-color:#fff;
+	}
+
+#new{
+	height: 500px;
+	width: 500px;
+	background-color:#fff;
+	font-family:Poiret One;
+	color:#000;
+	margin:auto;
+	}
+	
+#titulocontenido1{
+	height: 50px;
+	width: 460px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: #FF9A00;
+	border-radius: 5px;
+	font-family: Blueberry Oatmeal;
+	font-size: 50px;
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	}
+	
+#redeswifi{
+	height: 250px;
+	width: 460px;
+	margin: auto;
+	font-family: Bookman Old Style;
+	}
+	
+#servicios{
+	height: 550px;
+	width: 460px;
+	margin: auto;
+	font-family: Bookman Old Style;
+	}
+
+#contenido2{
+	height: 400px;
+	width: 1200px;
+	float:left;
+	margin-top: 20px;	
+	}
+	
+#contenido3{
+	height: 800px;
+	width: 1200px;
+	float:left;
+	margin-top: 20px;
+	background-color:#fff;	
+	}
+#con{
+	height: 600px;
+	width: 1600px;
+	margin:auto;
+	float:left;
+	
+	}	
+#contenido{
+	height: 350px;
+	width: 590px;
+	margin-top: 10px;
+	float:left;
+	background-color:#fff;
+	}
+
+#contenidoservicios{
+	height: 550px;
+	width: 590px;
+	margin-top: 10px;
+	float:left;
+	background-color:#fff;
+	}
+	
+#c{
+	height: 350px;
+	width: 590px;
+	margin-top: 10px;
+	float:right;
+	background-color:#fff;
+	}
+#cs{
+	height: 550px;
+	width: 590px;
+	margin-top: 10px;
+	float:right;
+	background-color:#fff;
+	}
+
+#co{
+	height: 80px;
+	width: 1000px;
+	margin-top: 20px;
+	margin:auto;
+	background-color:#fff;
+	}
+
+#piepagina{
+	height: 120px;
+	width: 1200px;
+	margin-top: 20px;
+	background-color:#333;
+	float:left;
+	border-radius: 5px;
+	font-family: DJB This Font is Worn;
+	font-size: 10px;
+	color:#CCC;
+	text-align:center;
+	}
+
+#comentarios{
+	height: 200px;
+	width: 1200px;
+	margin-top:10px;
+	border-radius: 5px;
+	text-align:center;
+	background-color:#fff;
+	font-family: Bookman Old Style;
+	font-size:14px;
+	float:left;
+	}
+	
+#cssmenu ul {
+  margin: 0;
+  padding: 7px 6px 0;
+  background: #000000 url(overlay.png) repeat-x 0 -110px;
+  line-height: 100%;
+  border-radius: 1em;
+  font: normal 0.5333333333333333em Arial, Helvetica, sans-serif;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  width: auto;
+}
+#cssmenu li {
+  margin: 0 5px;
+  padding: 0 0 8px;
+  float: left;
+  position: relative;
+  list-style: none;
+}
+#cssmenu a,
+#cssmenu a:link {
+  font-weight: bold;
+  font-size: 13px;
+  color: #FFF;
+  text-decoration: none;
+  display: block;
+  padding: 8px 20px;
+  margin: 0;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+#cssmenu a:hover {
+  background: #000;
+  color: #fff;
+}
+#cssmenu .active a,
+#cssmenu li:hover > a {
+  background: #FFFFFF url(overlay.png) repeat-x 0 -40px;
+  background: #FFF url(overlay.png) repeat-x 0 -40px;
+  color: #444;
+  border-top: solid 1px  #FFFFFF;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+#cssmenu ul ul li:hover a,
+#cssmenu li:hover li a {
+  background: none;
+  border: none;
+  color: #FFF;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+#cssmenu ul ul a:hover {
+  background: #FFF url(overlay.png) repeat-x 0 -100px !important;
+  color: #000 !important;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+#cssmenu li:hover > ul {
+  display: block;
+}
+#cssmenu ul ul {
+  display: none;
+  margin: 0;
+  padding: 0;
+  width: 185px;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background: url(overlay.png) repeat-x 0 0;
+  border: solid 1px #FFFFFF;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+#cssmenu ul ul li {
+  float: none;
+  margin: 0;
+  padding: 3px;
+}
+#cssmenu ul ul a,
+#cssmenu ul ul a:link {
+  font-weight: normal;
+  font-size: 12px;
+}
+#cssmenu ul:after {
+  content: '.';
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+* html #cssmenu ul {
+  height: 1%;
+}
+#texto {
+	height: 100px;
+	width: 100px;
+}
+#contenido2 #cs #servicios p {
+	text-align: justify;
+}
+#contenido2 #contenido #redeswifi p strong {
+
+}
